@@ -6,4 +6,4 @@ Any modifications you do to your device are solely your responsibility and knowi
 
 ## Tasmota configuration:
 
-![Tasmota Configuration](https://github.com/r2db/Youngzuth_SW02-03/Tasmota.png)
+![Tasmota Configuration](https://github.com/r2db/Youngzuth_SW02-03/blob/main/Tasmota.png)
