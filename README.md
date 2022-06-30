@@ -104,7 +104,7 @@ binary_sensor:
     name: "Bottom Button"
     id: bottom_button
   - platform: status
-    name: "Office Switch Status"
+    name: ${friendly_name} Switch Status
     id: sensor_status
     # Turn on the blue LED if the switch is connected to Home Assistant
     on_state:
